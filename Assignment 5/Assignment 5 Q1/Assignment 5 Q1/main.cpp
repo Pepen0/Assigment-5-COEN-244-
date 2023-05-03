@@ -1,14 +1,13 @@
-//Penoelo Thibeaud 40212017
-//Anthony Aldama jesus 40226191
+//Penoelo Thibeaud 
+//Anthony Aldama jesus 
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-   
-    
-    
-    
+
+   //create a constructor and test functionality ...
+
     return 0;
 }
